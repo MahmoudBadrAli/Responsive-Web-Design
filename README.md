@@ -3,7 +3,7 @@
 A modern, fully responsive website built with **HTML5, CSS3, and JavaScript**.  
 This project demonstrates best practices in responsive layouts, navigation menus, and interactive sections, making it suitable as a learning resource or template for business/portfolio websites.
 
-Try it Yourself: [Responsive Web Design](https://mahmoudbadrali.github.io/Responsive-Web-Design/))
+Try it Yourself: [Responsive Web Design](https://mahmoudbadrali.github.io/Responsive-Web-Design/)
 
 ---
 
